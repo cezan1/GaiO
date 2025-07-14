@@ -1,0 +1,4 @@
+.vscode/launch.json
+cmd/server/GaiO_logs/*
+cmd/server/jsonFile/*
+cmd/server/.env
